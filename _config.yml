@@ -54,7 +54,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "http://www.kamara.io/"
+url: "http://www.kamara.io"
 baseurl: ""
 
 # Includes
