@@ -1,0 +1,78 @@
+# General Settings
+name: Ernest Saidu Kamara
+job_title: Software Engineer
+email: ernest@kamara.io
+description: I build great apps at ZEDGE, the worlds largest mobile discovery and distribution platform. I also enjoy sharing priceless moments on Instagram, discovering new music on Spotify and also on Twitter if you tweet.
+avatar: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAk2AAAAJGRiMmE4YzQ1LWJlNTUtNGE5OS04NjkzLTI0MDQ5YjVjZjg2MQ.jpg
+favicon: /favicon.ico
+twitter_handler: ernestkamara
+#analytics_code: UA-XXXXXXX-2
+#disqus: your_disqus_site
+
+# Social Accounts
+social_networks:
+-  { name: facebook, url: '' }
+-  { name: twitter, url: 'http://twitter.com/ernestkamara' }
+-  { name: instagram, url: 'https://www.instagram.com/instakamara/' }
+-  { name: google-plus, url: '' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/ernestkamara/' }
+-  { name: skype, url: '' }
+-  { name: github, url: 'https://github.com/ernestkamara' }
+-  { name: codepen, url: '' }
+-  { name: stack-overflow, url: '' }
+-  { name: dribbble, url: '' }
+-  { name: behance, url: '' }
+-  { name: pinterest, url: '' }
+-  { name: tumblr, url: '' }
+-  { name: youtube, url: '' }
+-  { name: vimeo, url: '' }
+-  { name: vine, url: '' }
+-  { name: 500px, url: '' }
+-  { name: flickr, url: '' }
+-  { name: spotify, url: 'https://open.spotify.com/user/kisskamara' }
+-  { name: steam, url: '' }
+-  { name: wordpress, url: '' }
+-  { name: xing, url: '' }
+-  { name: bitcoin, url: '' }
+
+# Modules Settings
+show_categories: 1
+show_tags: 1
+show_email: 0
+show_rss: 0
+show_comments: 1
+show_menu: 1
+fixed_sidebar: 1
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: "true"
+
+# Serving
+url: ""
+baseurl: ""
+
+# Includes
+include: ["_pages"]
+
+# Outputting
+permalink: /:categories/:title.html
+category_dir: categories
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Conversion
+markdown: kramdown
+excerpt_separator: <!--more-->
+
+# Assets Settings
+sass:
+  sass_dir: assets/partials
+  style: compressed
