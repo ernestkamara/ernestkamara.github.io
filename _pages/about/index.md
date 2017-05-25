@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "About"
-permalink: "/About/"
+permalink: "/about/"
 ---
 ##### Designed in Sierra Leone and assemble in Norway.
 Ernest Saidu Kamara is a software engineer living in Trondheim, Norway and currently works at Zedge. He has been developing mobile application for over 7 years, since the arrival of the iPhone and has an extensive experience in developing and maintaining high quality scalable mobile application.
