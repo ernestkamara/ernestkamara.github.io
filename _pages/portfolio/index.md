@@ -17,14 +17,12 @@ Since 2011 I've been part of ZEDGE's Android Team and has been contributing to t
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <figure class="aligncenter">
-    <img width="150" height="150" src="https://pbs.twimg.com/media/Ck-h91sWgAE2eir.jpg" />
     <figcaption><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ThatFeelingWhen?src=hash">#ThatFeelingWhen</a> you discover your company logo on the screens at <a href="https://twitter.com/NYSE">@NYSE</a> <a href="https://twitter.com/hashtag/tradingfloor?src=hash">#tradingfloor</a> <a href="https://t.co/hBiDSQtyx2">pic.twitter.com/hBiDSQtyx2</a></p>&mdash; Zedge Headquarters (@ZedgeHQ) <a href="https://twitter.com/ZedgeHQ/status/742990553260888064">June 15, 2016</a></blockquote>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </figcaption>
 </figure>
 
 <figure class="aligncenter">
-    <img width="150" height="150" src="https://pbs.twimg.com/media/BzbhUpzCAAA-kKJ.png" />
     <figcaption><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Zedge is in the Top 10 free <a href="https://twitter.com/hashtag/Android?src=hash">#Android</a> apps on Google Play! Thanks for the support, Zedgers!!<a href="https://t.co/Oux6CokZhH">https://t.co/Oux6CokZhH</a> <a href="http://t.co/AQFphnghg8">pic.twitter.com/AQFphnghg8</a></p>&mdash; ZEDGE (@Zedge) <a href="https://twitter.com/Zedge/status/519850552847388673">October 8, 2014</a></blockquote>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </figcaption>
@@ -32,7 +30,6 @@ Since 2011 I've been part of ZEDGE's Android Team and has been contributing to t
 
 
 <figure class="aligncenter">
-    <img width="150" height="150" src="https://pbs.twimg.com/media/BDI_NYACYAAxsDK.png:large" />
     <figcaption><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Major milestone: ZEDGE for Android downloaded 50 million times! <a href="http://t.co/so8H9ymO">pic.twitter.com/so8H9ymO</a></p>&mdash; ZEDGE (@Zedge) <a href="https://twitter.com/Zedge/status/302373623992311808">February 15, 2013</a></blockquote>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </figcaption>
