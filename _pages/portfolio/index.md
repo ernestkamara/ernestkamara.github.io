@@ -4,12 +4,10 @@ title:  "Projects"
 permalink: "/projects/"
 ---
 
-### ZEDGE™ Ringtones & Wallpapers
-<figure class="aligncenter">
-    <img width="150" height="150" src="http://www.zedge.net/s/img/landing_app2.png" />
-    <figcaption><a href="https://play.google.com/store/apps/details?id=net.zedge.android" target="_blank_">ZEDGE™ Ringtones & Wallpapers on Google Play Store</a></figcaption>
-</figure>
-With over 200 millions downloads and counting, ZEDGE™ Ringtones & Wallpapers is the most trusted app in phone personalization with free wallpapers, ringtones, app icons, alarms and notification sounds to easily customize your phone, tablet or other mobile device.
+### <a href="https://play.google.com/store/apps/details?id=net.zedge.android" target="_blank_">ZEDGE™ Ringtones & Wallpapers </a>
+<img src="http://www.zedge.net/s/img/landing_app2.png" width="400" align="right" hspace="20" />
+With over 200 millions downloads and counting, ZEDGE™ Ringtones & Wallpapers is the most trusted app in phone personalization with free wallpapers, ringtones, app icons, alarms and notification sounds to easily customize your phone, tablet or other mobile device. 
+
 
 Since 2011 I've been part of ZEDGE's Android Team and has been contributing to the growth of this app along with development, performance improvement and maintenance of the app for over 5 years. I've also been part of some great milestone during these years.
 
@@ -38,12 +36,9 @@ Since 2011 I've been part of ZEDGE's Android Team and has been contributing to t
 #### Technologies and frameworks:
 Java,Android-SDK and support libraries,JSON,Maven,Facebook SDK,Glide,Branch,Appboy,MoPub,Google Http Client, Google Play Services, Git, SQLite, Google Analytics, Fabric, Flurry Analytics, Easymock, Jacoco,  Robolectric, Gradle, Dagger 2, Calabash, Butterknife
 
-### ZEDGE Snakk™ Pics for Messages
-<figure>
-    <img width="250" height="115" src="https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/13130851_1170039076361131_4779991500121242963_o.png?oh=79ce14d72f47fe71546b82b7863b3988&oe=59AE53F5" />
-    <figcaption><a href="https://play.google.com/store/apps/details?id=net.zedge.snakk" target="_blank_">ZEDGE Snakk™ Pics for Messages on Google Play Store</a></figcaption>
-</figure>
-
+### <a href="https://play.google.com/store/apps/details?id=net.zedge.snakk" target="_blank_">ZEDGE Snakk™ Pics for Messages</a>
+ <img width="250" height="115" src="https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/13130851_1170039076361131_4779991500121242963_o.png?oh=79ce14d72f47fe71546b82b7863b3988&oe=59AE53F5" width="400" align="right" hspace="20"  />
+ 
 ZEDGE Snakk™ offers an endless catalog of funny pictures, e-cards, memes and stickers for expressing your emotions to your love ones for every occasion. It is very simple and easy to use.
 
 #### Technologies and frameworks:
