@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>I build great apps at ZEDGE, the worlds largest mobile discovery and distribution platform. I also enjoy sharing priceless moments on Instagram, discovering new music on Spotify and also on Twitter if you tweet.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 May 2017 11:08:08 +0200</pubDate>
-    <lastBuildDate>Tue, 30 May 2017 11:08:08 +0200</lastBuildDate>
+    <link>http://www.kamara.io/</link>
+    <atom:link href="http://www.kamara.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 31 May 2017 10:15:11 +0200</pubDate>
+    <lastBuildDate>Wed, 31 May 2017 10:15:11 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -31,8 +31,8 @@
 &lt;p&gt;Source code:&lt;a href=&quot;https://github.com/GDG-Trondheim/firebase-ui-quickstart-android&quot;&gt; https://github.com/GDG-Trondheim/firebase-ui-quickstart-android&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 May 2017 09:38:35 +0200</pubDate>
-        <link>/firebaseui-quickstarts-for-android.html</link>
-        <guid isPermaLink="true">/firebaseui-quickstarts-for-android.html</guid>
+        <link>http://www.kamara.io/firebaseui-quickstarts-for-android.html</link>
+        <guid isPermaLink="true">http://www.kamara.io/firebaseui-quickstarts-for-android.html</guid>
         
         
       </item>
