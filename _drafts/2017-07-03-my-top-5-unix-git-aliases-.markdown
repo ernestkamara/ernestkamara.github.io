@@ -4,6 +4,7 @@ title: "My Top 5 unix git aliases: "
 date: "2017-07-03 12:35:15 +0200"
 ---
 
+
 This post is assumed that you are familiar with Git and aliases and you have defined a few for yourself.
 
 Over the last 6 years as a full-time developer, using Git has been a every day routine. Git is great and offers a ton of cool features to make version controlling experience simpler and easier.
@@ -43,7 +44,6 @@ cmp = cm && git push
 cmp = "!f() { git add -A && git commit -m \"$@\" && git push; }; f"
 
 ```
-
 [alias]
     // commit
     cm=!git add -A && git commit -m
@@ -68,6 +68,7 @@ l-no-merges    = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%
 l-merges    = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short --merges
 
 ```
+
 
 ```
 lr   = log --pretty=format:"%C(yellow)%h%Cblue%>(12)%ad%Cgreen%<(7)%aN%Cred%d\\ %Creset%s"  --decorate --date=relative
